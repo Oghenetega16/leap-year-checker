@@ -1,1 +1,1 @@
-#The leap year checker program determines whether agiven year is a leap year or not.
+#The leap year checker program determines whether a given year is a leap year or not.
